@@ -2,7 +2,7 @@ name: otel_backblaze_b2
 description: >-
   OpenTelemetry instrumentation for backblaze_b2 by Dartastic.io. Adds
   standard OpenTelemetry observability to applications that use backblaze_b2.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_backblaze_b2
 homepage: https://dartastic.io
 
